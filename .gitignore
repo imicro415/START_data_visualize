@@ -16,3 +16,6 @@ Codebook.pdf
 
 # Parse.py file that converts the Excel file to truncated CSV 
 parse.py
+
+# Local pyrightconfig.json
+pyrightconfig.json
