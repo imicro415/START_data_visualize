@@ -2,6 +2,13 @@
 
 An interactive data visualization web app built with Python and Plotly Dash, exploring a curated subset of the Global Terrorism Database (GTD) maintained by START at the University of Maryland.
 
+## Live Demo 
+
+A live demo of the web application can be found at: 
+
+https://start-data-visualize.onrender.com/
+
+
 ## Pages
 
 - **Home** — Overview of the project, data description, and link to START
